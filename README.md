@@ -11,7 +11,7 @@ Demo
 
 Better than words, try it.
 
-A demo is available [here](http://gdromard.github.com/jquery.tableToCsv/demo/).
+A demo is available [here](http://gdromard.github.com/jquery.tableToCsv/demo.html).
 
 
 Bug tracker
